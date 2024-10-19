@@ -5,15 +5,25 @@ Dataset Description
 The netflix_data.csv file contains the following columns:
 
 Title: The title of the movie or TV show.
+
 Director: The name(s) of the director(s).
+
 Cast: The main cast of the movie or show.
+
 Country: The country where the movie or show was produced.
+
 Date Added: The date when the movie or show was added to Netflix.
+
 Release Year: The year the movie or show was released.
+
 Rating: The rating of the movie or show (e.g., PG, R).
+
 Duration: The duration of the movie or the number of seasons for a TV show.
+
 Genre: The genre(s) of the movie or show.
+
 Description: A brief description of the movie or show.
+
 Usage
 You can use this dataset for various analyses, including:
 
