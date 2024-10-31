@@ -24,14 +24,7 @@ Genre: The genre(s) of the movie or show.
 
 Description: A brief description of the movie or show.
 
-Usage
-You can use this dataset for various analyses, including:
 
-Exploring trends in Netflix's content offerings over time.
-Analyzing the distribution of genres and ratings.
-Investigating the relationships between directors, actors, and content ratings.
-Building recommendation systems based on content features.
-Requirements
 To work with the dataset, you may need the following Python libraries:
 
 pandas
